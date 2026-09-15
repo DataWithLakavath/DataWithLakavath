@@ -49,7 +49,7 @@ My experience spans **financial services, healthcare, retail/e-commerce, cloud d
 🔹 Building scalable batch and real-time data pipelines  
 🔹 Processing large datasets using **Spark, PySpark & Databricks**  
 🔹 Designing **Data Lakes, Lakehouses & Data Warehouses**  
-🔹 Building **Medallion Architecture — Bronze, Silver & Gold**  
+🔹 Building **Medallion Architecture - Bronze, Silver & Gold**  
 🔹 Developing cloud data solutions across **AWS, Azure & GCP**  
 🔹 Building modern platforms with **Snowflake & Microsoft Fabric**  
 🔹 Orchestrating ETL/ELT workflows using **Airflow, dbt, ADF & Glue**  
