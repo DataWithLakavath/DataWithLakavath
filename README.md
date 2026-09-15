@@ -482,8 +482,7 @@ I'm always interested in connecting with people working on
 
 [![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DataWithLakavath)
 
-![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)
-
+[![Phone](https://img.shields.io/badge/Phone-%2B1%20940--242--6587-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+19402426587)
 <br><br>
 
 ### ⚡ Raw Data → Reliable Pipelines → Useful Decisions
