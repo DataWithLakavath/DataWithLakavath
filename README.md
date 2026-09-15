@@ -28,6 +28,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharathcareer/)
+[![Phone](https://img.shields.io/badge/Phone-%2B1%20940--242--6587-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+19402426587)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharath.career7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-DataWithLakavath-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DataWithLakavath)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-8A2BE2?style=for-the-badge)
