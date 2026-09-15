@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Bharath Lakavath
+# 👋 Hi, I'm Bharath
 
 ### 🚀 Senior Data Engineer | Cloud Data Platforms | Lakehouse | Streaming | Analytics
 
